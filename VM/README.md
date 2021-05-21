@@ -1,0 +1,1 @@
+This is an initial directory for virtual machine used to compute PoUW (proofs of usefull work)

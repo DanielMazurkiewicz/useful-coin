@@ -1,0 +1,1 @@
+This directory contains implementations of algorithms testing a quality of proof of usefull work

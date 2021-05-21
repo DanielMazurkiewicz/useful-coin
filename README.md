@@ -14,6 +14,7 @@ Lets say we have a computational problem to solve and limited resources to solve
 * List of problems is expandable and each problem has to be accepted by steering committee
 * Each problem is a currency "variant"
 
+
 ## Examples
 
 Lets say we want a video codec and best possible image quality on limited bandwidth, limited computational cycles on "virtual machine", limited code size and limited RAM resources. Library of wisely selected videos would be a reference for measurement of image quality. Every improvement in overall quality would be gratified with "hash" of the code. As long as final result fits within limited resources the algorithm of improving would not matter (machine learning/genetic algorithms ...) and culd be a subject of "manual" earnings.
