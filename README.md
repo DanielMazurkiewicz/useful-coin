@@ -1,5 +1,5 @@
-# usefull-coin
-Main repository for cryprocurrency usefull-coin
+# useful-coin
+Main repository for cryprocurrency useful-coin
 
 ## The idea
 One of big issues of cryptocurrencies is that the results of computations they require are useless from practical perspective. It is just bunch of carfully calculated bytes without any usefull meaning. The idea is to replace these "useless" computations with usefull ones.
