@@ -1,4 +1,4 @@
-# Low latency low bandwidth with bidirectional transmission general purpouse video encoder-decoder quality measurement tool
+# Low latency low bandwidth with bidirectional transmission general purpouse video encoder-decoder quality verification
 
 This kind of codec can be used effectively everywhere where having non latent image is an important factor, for example:
 * remote controlled vehicles (drones, cars, planes...)
