@@ -4,7 +4,7 @@ Main repository for cryprocurrency useful-coin
 ## The idea
 One of big issues of cryptocurrencies is that the results of computations they require are useless from practical perspective. It is just bunch of carfully calculated bytes without any usefull meaning. The idea is to replace these "useless" computations with usefull ones.
 
-## The solution - PoUW (proof of usefull work)
+## The solution - PoUW (proof of useful work)
 Lets say we have a computational problem to solve and limited resources to solve it. The task would be to get as good as possible result for the problem within these limited resources. And every progress (getting better result from previous) would be gratified with "hash" coin based on proof of useful work.
 
 ## Constraints
